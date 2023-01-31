@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "tipo": "bebida",
+    "nombre": "aperol",
+    "precio": 2400,
+    "foto": "./assets/aperol.jpg"
+}, {
+    "id": 2,
+    "tipo": "bebida",
+    "nombre": "campari",
+    "precio": 1500,
+    "foto": "./assets/campari.jpg"
+}, {
+    "id": 3,
+    "tipo": "bebida",
+    "nombre": "champagne",
+    "precio": 2800,
+    "foto": "./assets/champagne.jpg"
+}, {
+    "id": 4,
+    "tipo": "bebida",
+    "nombre": "corona",
+    "precio": 1000,
+    "foto": "./assets/corona.jpg"
+}, {
+    "id": 5,
+    "tipo": "bebida",
+    "nombre": "fernet",
+    "precio": 2500,
+    "foto": "./assets/fernet.jpg"
+}, {
+    "id": 6,
+    "tipo": "bebida",
+    "nombre": "gin",
+    "precio": 2600,
+    "foto": "./assets/gin.jpg"
+}, {
+    "id": 7,
+    "tipo": "bebida",
+    "nombre": "jaguer",
+    "precio": 4500,
+    "foto": "./assets/jaguer.jpg"
+}, {
+    "id": 8,
+    "tipo": "bebida",
+    "nombre": "malibu",
+    "precio": 3800,
+    "foto": "./assets/malibu.jpg"
+}, {
+    "id": 9,
+    "tipo": "bebida",
+    "nombre": "tequila",
+    "precio": 3800,
+    "foto": "./assets/tequila.jpg"
+}, {
+    "id": 10,
+    "tipo": "bebida",
+    "nombre": "gancia",
+    "precio": 1800,
+    "foto": "./assets/gancia.jpg"
+}, {
+    "id": 11,
+    "tipo": "bebida",
+    "nombre": "vodka",
+    "precio": 4900,
+    "foto": "./assets/vodka.jpg"
+}, {
+    "id": 12,
+    "tipo": "bebida",
+    "nombre": "whisky",
+    "precio": 5200,
+    "foto": "./assets/whisky.jpg"
+}]
